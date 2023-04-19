@@ -9,7 +9,7 @@ I taught myself enough about fetch, async/wait funtions and the date method to g
 The program does have any feature in the current version.
 
 ## How to use
-Run the code in a Node.js environment and it will log the date and two random affirmations.
+Run the code in a Node.js environment and it will log the time and two random affirmations.
 
 ## Technologies
 - JavaScript
